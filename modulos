@@ -1,0 +1,12 @@
+Esse diretório contém os arquivos finalizados.
+Pré-processamento
+  df das bandas e mask
+Modelo
+  fit dos dados
+  modelo U-Net
+  parametros para rodar a rede
+Análise/visualização dos dados
+  Acurácia
+  IOU
+  Gráficos
+  Visualização das imagens
